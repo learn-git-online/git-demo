@@ -6,3 +6,4 @@ console.log(x)
 
 const z = 3
 
+console.log("Mohamed")
